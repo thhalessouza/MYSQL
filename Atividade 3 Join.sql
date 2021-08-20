@@ -52,3 +52,4 @@ select tb_produtos.nome, tb_categoria.descricao from tb_produtos inner join tb_c
 on tb_produtos.categoria_id = tb_categoria.id
 where tb_categoria.id = 1
 
+
